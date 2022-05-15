@@ -1,0 +1,7 @@
+Various function in file handling
+fputc
+ int fputc(character,FILE pointer);
+
+fputs
+fgetc
+fgets

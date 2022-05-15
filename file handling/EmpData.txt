@@ -1,0 +1,2 @@
+Id of emp[1]:1
+Name of emp: Ishita
